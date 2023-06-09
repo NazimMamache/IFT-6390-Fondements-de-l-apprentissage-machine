@@ -1,0 +1,15 @@
+---
+:id: 154864224
+:submitters:
+- :name: Mazue Gabin
+  :email: gabin.mazue@umontreal.ca
+- :name: Rives Thomas
+  :email: thomas.rives@umontreal.ca
+- :name: Mamache Hamed Nazim
+  :email: hamed.nazim.mamache@umontreal.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-19 04:13:14.668791000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-18 20:13:14.668791000 Z
+:status: processed
